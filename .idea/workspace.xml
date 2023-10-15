@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de346875-01f3-49ba-aaa0-4ad9cb59e6ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/practice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/src/arrays/ConcatenateArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/src/arrays/EvenNumberDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/src/arrays/Search2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/src/canCompleteCircuit/IdealSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/src/canCompleteCircuit/Question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/src/canCompleteCircuit/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/practice" />
+  </component>
+  <component name="ProjectId" id="2WJVqkXXt3no2B1A3vNAMUppoC3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de346875-01f3-49ba-aaa0-4ad9cb59e6ee" name="Changes" comment="" />
+      <created>1696450864391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696450864391</updated>
+    </task>
+    <servers />
+  </component>
+</project>
